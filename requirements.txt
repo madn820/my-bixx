@@ -1,0 +1,10 @@
+openai
+python-telegram-bot==20.3
+python-dotenv
+aiosqlite
+nest_asyncio
+telegram
+apscheduler
+fastapi
+uvicorn
+requests
